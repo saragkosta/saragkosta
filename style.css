@@ -45,6 +45,7 @@ text-decoration: none;
 color: #b412ff;
 background-color: Gray;
 border-radius: 2px;
+box-shadow: 1px 1px 3px #8507bf;
 margin: 5px;
 padding: 5px;
 display: inline-block;
