@@ -1,0 +1,27 @@
+
+    body {
+      font-family: 'Open Sans', sans-serif;
+      background-color: #ffe4e6;
+    }
+    
+    h1 {
+      color:#bc2572;
+      font-family: 'Cookie', cursive;
+      font-size: 48px;
+      text-shadow: 5px 5px 4px #ffffff;
+    }
+    
+    h2 {
+      font-size:24px;
+    }
+    
+    p {
+      font-family: 'Droid Serif', serif;
+    }
+    
+    #greeting {
+      color: #fff;
+      background-image: url(http://pxwallpaper.com/wp-content/uploads/2013/11/Pink-Sun-Flowers-Vintage-HD.jpg);
+      background-size: cover;
+      height: 500px;
+    }
