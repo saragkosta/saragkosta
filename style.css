@@ -20,6 +20,10 @@
       font-family: 'Droid Serif', serif;
     }
     
+    nav a:hover{
+background-color: #ffffff;
+}
+    
     #greeting {
       color: #fff;
       background-image: url(https://www.imageupload.co.uk/images/2015/05/06/Untitledl-3.jpg);
