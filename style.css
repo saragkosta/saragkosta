@@ -52,3 +52,10 @@ display: inline-block;
 transition: 1s all;
 }
 
+  table {
+    width: 600px;
+    border: 1px solid #fff;
+    background-color: #000;
+    margin: 20px;
+  }
+
